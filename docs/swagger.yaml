@@ -1,0 +1,11 @@
+info:
+  contact:
+    email: support@example.com
+    name: API Support
+    url: http://www.example.com/support
+  description: This is a sample server for a Scanner Catalog API.
+  termsOfService: http://example.com/terms/
+  title: Scanner Catalog API
+  version: "1.0"
+paths: {}
+swagger: "2.0"
